@@ -1,0 +1,3 @@
+'.source.hosts':
+  'editor':
+    'commentStart': '# '

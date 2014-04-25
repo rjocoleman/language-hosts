@@ -1,0 +1,12 @@
+{
+  "name": "language-hosts",
+  "version": "0.1.0",
+  "description": "/etc/hosts file support in Atom",
+  "repository": "https://github.com/rjocoleman/language-hosts",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
